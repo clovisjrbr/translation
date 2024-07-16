@@ -2,6 +2,7 @@
   "COMMON": {
     "ACTIONS": {
       "APPLY": "Aplicar",
+      "COPY": "Copiar",
       "CREATE": "Criar",
       "DELETE": "Deletar",
       "DUPLICATE": "Duplicar",
@@ -10,7 +11,12 @@
       "REMOVE": "Remover",
       "UPDATE": "Atualizar",
       "VIEW": "Visualizar"
-    }
+    },
+    "GENERAL": {
+      "NOTE_one": "Nota",
+      "NOTE_other": "Notas"
+    },
+    "NEW": "Novo"
   },
   "COMMUNITY": {
     "ARTICLES": {
@@ -26,6 +32,13 @@
           }
         }
       }
+    }
+  },
+  "DOCUMENT": {
+    "DIALOGS": {
+      "DELETE_ALSO_UNSHARE": "Você deseja cancelar o compartilhamento do documento também?",
+      "DELETE_CONFIRM_DIALOG": "Você tem certeza que deseja excluir este documento?",
+      "DELETE_UNSHARE_ERROR": "Houve um erro ao cancelar o compartilhamento deste documento. Por favor cancele automaticamente."
     }
   },
   "LANGUAGE": {
